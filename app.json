@@ -5,8 +5,7 @@
     "GUILD_ID": {
         "description": "The id for the server you are hosting this bot for.",
         "required": true
-    }
-    {
+    },
   "buildpacks": [
     {
       "url": "https://github.com/heroku/heroku-buildpack-python"
@@ -15,5 +14,4 @@
       "url": "heroku/python"
     }
   ]
-}
 }
